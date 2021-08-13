@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <properties>
-        <bouncycastle.version>1.54</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
         <org.springframework.version>4.0.5.RELEASE</org.springframework.version>
         <servlet-api.version>2.5</servlet-api.version>
         <oltu.oauth2.version>1.0.2</oltu.oauth2.version>
