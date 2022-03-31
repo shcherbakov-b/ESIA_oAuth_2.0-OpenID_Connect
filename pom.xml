@@ -10,7 +10,7 @@
     <packaging>war</packaging>
     <properties>
         <bouncycastle.version>1.54</bouncycastle.version>
-        <org.springframework.version>4.0.5.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.18</org.springframework.version>
         <servlet-api.version>2.5</servlet-api.version>
         <oltu.oauth2.version>1.0.2</oltu.oauth2.version>
         <servlet-api.version>2.5</servlet-api.version>
